@@ -1,0 +1,842 @@
+[
+    {
+        "id": 1,
+        "item_id": "O4a8vfHn2am2aWwkl7uxz",
+        "name": "BMW X5 M Competition",
+        "description": "A high-end luxury sedan with premium features.",
+        "price": "55000.00",
+        "auction_start": "2024-09-11T16:20:00.000Z",
+        "auction_end": "2024-09-22T02:00:00.000Z",
+        "category": "Car",
+        "images_url": [
+            "https://media.carsandbids.com/cdn-cgi/image/width=1800,quality=70/20309e251cb7341d1fb94cb5d4546882260d2202/photos/3goMaOp8-fOg6ou9Fds-(edit).jpg?t=170052040419",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "item_id": "e7HvBGi9L0XtyVJc8zYZd",
+        "name": "Sport Convertible",
+        "description": "A sporty convertible for thrill seekers.",
+        "price": "42000.00",
+        "auction_start": "2024-09-16T03:00:00.000Z",
+        "auction_end": "2024-09-23T03:00:00.000Z",
+        "category": "Car",
+        "images_url": [
+            "https://media.carsandbids.com/cdn-cgi/image/width=1800,quality=70/20309e251cb7341d1fb94cb5d4546882260d2202/photos/3goMaOp8-fOg6ou9Fds-(edit).jpg?t=170052040419",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "item_id": "e8KlvQ8zN9fHyWbZ9p1nP",
+        "name": "SUV",
+        "description": "A spacious SUV with advanced safety features.",
+        "price": "47000.00",
+        "auction_start": "2024-09-17T04:00:00.000Z",
+        "auction_end": "2024-09-24T04:00:00.000Z",
+        "category": "Car",
+        "images_url": [
+            "https://media.carsandbids.com/cdn-cgi/image/width=1800,quality=70/20309e251cb7341d1fb94cb5d4546882260d2202/photos/3goMaOp8-fOg6ou9Fds-(edit).jpg?t=170052040419",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "item_id": "f6KpG7i1F9lXoTbX9q2mV",
+        "name": "Luxury Coupe",
+        "description": "A stylish luxury coupe for elite drivers.",
+        "price": "60000.00",
+        "auction_start": "2024-09-18T05:00:00.000Z",
+        "auction_end": "2024-09-25T05:00:00.000Z",
+        "category": "Car",
+        "images_url": [
+            "https://media.carsandbids.com/cdn-cgi/image/width=1800,quality=70/20309e251cb7341d1fb94cb5d4546882260d2202/photos/3goMaOp8-fOg6ou9Fds-(edit).jpg?t=170052040419",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "item_id": "g5LjV8f2o0XnK9rM6t1eW",
+        "name": "Electric Sedan",
+        "description": "An eco-friendly electric sedan with modern technology.",
+        "price": "55000.00",
+        "auction_start": "2024-09-19T06:00:00.000Z",
+        "auction_end": "2024-09-26T06:00:00.000Z",
+        "category": "Car",
+        "images_url": [
+            "https://media.carsandbids.com/cdn-cgi/image/width=1800,quality=70/20309e251cb7341d1fb94cb5d4546882260d2202/photos/3goMaOp8-fOg6ou9Fds-(edit).jpg?t=170052040419",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "item_id": "h4QwK7r3T2LxN8jO9p1zE",
+        "name": "Compact Car",
+        "description": "A compact car for city driving.",
+        "price": "20000.00",
+        "auction_start": "2024-09-20T07:00:00.000Z",
+        "auction_end": "2024-09-27T07:00:00.000Z",
+        "category": "Car",
+        "images_url": [
+            "https://media.carsandbids.com/cdn-cgi/image/width=1800,quality=70/20309e251cb7341d1fb94cb5d4546882260d2202/photos/3goMaOp8-fOg6ou9Fds-(edit).jpg?t=170052040419",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "item_id": "i6RpH8m9L1QxN7zT0k3eW",
+        "name": "Pickup Truck",
+        "description": "A powerful pickup truck for tough jobs.",
+        "price": "35000.00",
+        "auction_start": "2024-09-21T08:00:00.000Z",
+        "auction_end": "2024-09-28T08:00:00.000Z",
+        "category": "Car",
+        "images_url": [
+            "https://media.carsandbids.com/cdn-cgi/image/width=1800,quality=70/20309e251cb7341d1fb94cb5d4546882260d2202/photos/3goMaOp8-fOg6ou9Fds-(edit).jpg?t=170052040419",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "item_id": "j5KtQ9r2L0XnN8mT3p1eE",
+        "name": "Luxury Hatchback",
+        "description": "A luxury hatchback with advanced amenities.",
+        "price": "45000.00",
+        "auction_start": "2024-09-22T09:00:00.000Z",
+        "auction_end": "2024-09-29T09:00:00.000Z",
+        "category": "Car",
+        "images_url": [
+            "https://media.carsandbids.com/cdn-cgi/image/width=1800,quality=70/20309e251cb7341d1fb94cb5d4546882260d2202/photos/3goMaOp8-fOg6ou9Fds-(edit).jpg?t=170052040419",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "item_id": "k8LrT7o9Q1PzN0eM2k3xW",
+        "name": "Hybrid Car",
+        "description": "A hybrid car with fuel efficiency and power.",
+        "price": "30000.00",
+        "auction_start": "2024-09-23T10:00:00.000Z",
+        "auction_end": "2024-09-30T10:00:00.000Z",
+        "category": "Car",
+        "images_url": [
+            "https://media.carsandbids.com/cdn-cgi/image/width=1800,quality=70/20309e251cb7341d1fb94cb5d4546882260d2202/photos/3goMaOp8-fOg6ou9Fds-(edit).jpg?t=170052040419",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "item_id": "l7QxN8r2P3L0K1eM9t1eW",
+        "name": "Luxury Minivan",
+        "description": "A luxury minivan with ample space for families.",
+        "price": "60000.00",
+        "auction_start": "2024-09-24T11:00:00.000Z",
+        "auction_end": "2024-10-01T11:00:00.000Z",
+        "category": "Car",
+        "images_url": [
+            "https://media.carsandbids.com/cdn-cgi/image/width=1800,quality=70/20309e251cb7341d1fb94cb5d4546882260d2202/photos/3goMaOp8-fOg6ou9Fds-(edit).jpg?t=170052040419",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "item_id": "m2Pv6H9tG3a8XkJz5r0Yz",
+        "name": "Sport Motorcycle",
+        "description": "A high-speed sport motorcycle with sleek design.",
+        "price": "12000.00",
+        "auction_start": "2024-10-01T01:00:00.000Z",
+        "auction_end": "2024-10-08T01:00:00.000Z",
+        "category": "Bike",
+        "images_url": [
+            "https://content2.kawasaki.com/ContentStorage/KMC/ProductTopFeature/1238/06171256-001a-4e63-b06c-fd64100d972f.jpg?w=800",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "item_id": "n5Qy3Wz2A8oL9rF6k7tB8",
+        "name": "Cruiser Motorcycle",
+        "description": "A comfortable cruiser motorcycle for long rides.",
+        "price": "15000.00",
+        "auction_start": "2024-10-02T02:00:00.000Z",
+        "auction_end": "2024-10-09T02:00:00.000Z",
+        "category": "Bike",
+        "images_url": [
+            "https://content2.kawasaki.com/ContentStorage/KMC/ProductTopFeature/1238/06171256-001a-4e63-b06c-fd64100d972f.jpg?w=800",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "item_id": "o6RkL7m9T1QxN8eP2j3bE",
+        "name": "Electric Scooter",
+        "description": "An eco-friendly electric scooter for city commuting.",
+        "price": "2500.00",
+        "auction_start": "2024-10-03T03:00:00.000Z",
+        "auction_end": "2024-10-10T03:00:00.000Z",
+        "category": "Bike",
+        "images_url": [
+            "https://content2.kawasaki.com/ContentStorage/KMC/ProductTopFeature/1238/06171256-001a-4e63-b06c-fd64100d972f.jpg?w=800",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "item_id": "p8JrL6m3B9oV0qK2x7T5Z",
+        "name": "Dirt Bike",
+        "description": "A rugged dirt bike for off-road adventures.",
+        "price": "8000.00",
+        "auction_start": "2024-10-04T04:00:00.000Z",
+        "auction_end": "2024-10-11T04:00:00.000Z",
+        "category": "Bike",
+        "images_url": [
+            "https://content2.kawasaki.com/ContentStorage/KMC/ProductTopFeature/1238/06171256-001a-4e63-b06c-fd64100d972f.jpg?w=800",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 15,
+        "item_id": "q9LpN7r2M0XyJ8eK3t1eW",
+        "name": "Touring Bike",
+        "description": "A comfortable touring bike for long-distance travel.",
+        "price": "10000.00",
+        "auction_start": "2024-10-05T05:00:00.000Z",
+        "auction_end": "2024-10-12T05:00:00.000Z",
+        "category": "Bike",
+        "images_url": [
+            "https://content2.kawasaki.com/ContentStorage/KMC/ProductTopFeature/1238/06171256-001a-4e63-b06c-fd64100d972f.jpg?w=800",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "item_id": "r7QxL8m9T1P0K2eN3j4bE",
+        "name": "Naked Bike",
+        "description": "A stylish naked bike with a minimalist design.",
+        "price": "9500.00",
+        "auction_start": "2024-10-06T06:00:00.000Z",
+        "auction_end": "2024-10-13T06:00:00.000Z",
+        "category": "Bike",
+        "images_url": [
+            "https://content2.kawasaki.com/ContentStorage/KMC/ProductTopFeature/1238/06171256-001a-4e63-b06c-fd64100d972f.jpg?w=800",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 17,
+        "item_id": "s9RpL7m0T1XyK2eN3j4bE",
+        "name": "Cafe Racer",
+        "description": "A retro cafe racer bike with classic looks.",
+        "price": "12000.00",
+        "auction_start": "2024-10-07T07:00:00.000Z",
+        "auction_end": "2024-10-14T07:00:00.000Z",
+        "category": "Bike",
+        "images_url": [
+            "https://content2.kawasaki.com/ContentStorage/KMC/ProductTopFeature/1238/06171256-001a-4e63-b06c-fd64100d972f.jpg?w=800",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 18,
+        "item_id": "t1QxN8r2L3P0K4eJ5m6bE",
+        "name": "Chopper Motorcycle",
+        "description": "A custom chopper motorcycle with unique design.",
+        "price": "18000.00",
+        "auction_start": "2024-10-08T08:00:00.000Z",
+        "auction_end": "2024-10-15T08:00:00.000Z",
+        "category": "Bike",
+        "images_url": [
+            "https://content2.kawasaki.com/ContentStorage/KMC/ProductTopFeature/1238/06171256-001a-4e63-b06c-fd64100d972f.jpg?w=800",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "item_id": "u2RpL7m0T1XyK3eN4j5bE",
+        "name": "Adventure Bike",
+        "description": "An adventure bike designed for rugged terrains.",
+        "price": "13000.00",
+        "auction_start": "2024-10-09T09:00:00.000Z",
+        "auction_end": "2024-10-16T09:00:00.000Z",
+        "category": "Bike",
+        "images_url": [
+            "https://content2.kawasaki.com/ContentStorage/KMC/ProductTopFeature/1238/06171256-001a-4e63-b06c-fd64100d972f.jpg?w=800",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 20,
+        "item_id": "v3QxL7m9T1P0K2eN5j6bE",
+        "name": "Scooter",
+        "description": "A compact and practical scooter for daily use.",
+        "price": "3000.00",
+        "auction_start": "2024-10-10T10:00:00.000Z",
+        "auction_end": "2024-10-17T10:00:00.000Z",
+        "category": "Bike",
+        "images_url": [
+            "https://content2.kawasaki.com/ContentStorage/KMC/ProductTopFeature/1238/06171256-001a-4e63-b06c-fd64100d972f.jpg?w=800",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 21,
+        "item_id": "x1A2b3C4d5E6fG7h8i9Jk0L",
+        "name": "Luxury Watch",
+        "description": "An exquisite luxury watch with diamond accents.",
+        "price": "7000.00",
+        "auction_start": "2024-11-01T02:00:00.000Z",
+        "auction_end": "2024-11-08T02:00:00.000Z",
+        "category": "Watch",
+        "images_url": [
+            "https://media.gq.com/photos/636175be96efe5f456046f92/16:9/w_2560%2Cc_limit/m126067-0001_2209jva_002_l_new-cover.jpeg",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 22,
+        "item_id": "y2B3c4D5e6F7g8H9i0Jk1L",
+        "name": "Diving Watch",
+        "description": "A durable diving watch with waterproof features.",
+        "price": "800.00",
+        "auction_start": "2024-11-02T03:00:00.000Z",
+        "auction_end": "2024-11-09T03:00:00.000Z",
+        "category": "Watch",
+        "images_url": [
+            "https://media.gq.com/photos/636175be96efe5f456046f92/16:9/w_2560%2Cc_limit/m126067-0001_2209jva_002_l_new-cover.jpeg",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 23,
+        "item_id": "c3QxL8m9T1P0K4eJ6r5bE",
+        "name": "Digital Watch",
+        "description": "A modern digital watch with multiple functions.",
+        "price": "250.00",
+        "auction_start": "2024-11-03T04:00:00.000Z",
+        "auction_end": "2024-11-10T04:00:00.000Z",
+        "category": "Watch",
+        "images_url": [
+            "https://media.gq.com/photos/636175be96efe5f456046f92/16:9/w_2560%2Cc_limit/m126067-0001_2209jva_002_l_new-cover.jpeg",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 24,
+        "item_id": "d4RpL7m0T1XyK5eN7j8bE",
+        "name": "Analog Watch",
+        "description": "A classic analog watch with elegant design.",
+        "price": "350.00",
+        "auction_start": "2024-11-04T05:00:00.000Z",
+        "auction_end": "2024-11-11T05:00:00.000Z",
+        "category": "Watch",
+        "images_url": [
+            "https://media.gq.com/photos/636175be96efe5f456046f92/16:9/w_2560%2Cc_limit/m126067-0001_2209jva_002_l_new-cover.jpeg",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 25,
+        "item_id": "e5QxL7m9T1P0K6eJ8r9bE",
+        "name": "Smartwatch",
+        "description": "A smartwatch with fitness tracking capabilities.",
+        "price": "500.00",
+        "auction_start": "2024-11-05T06:00:00.000Z",
+        "auction_end": "2024-11-12T06:00:00.000Z",
+        "category": "Watch",
+        "images_url": [
+            "https://media.gq.com/photos/636175be96efe5f456046f92/16:9/w_2560%2Cc_limit/m126067-0001_2209jva_002_l_new-cover.jpeg",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 26,
+        "item_id": "f6RpL7m0T1XyK7eN9j0bE",
+        "name": "Leather Strap Watch",
+        "description": "A stylish watch with a leather strap.",
+        "price": "450.00",
+        "auction_start": "2024-11-06T07:00:00.000Z",
+        "auction_end": "2024-11-13T07:00:00.000Z",
+        "category": "Watch",
+        "images_url": [
+            "https://media.gq.com/photos/636175be96efe5f456046f92/16:9/w_2560%2Cc_limit/m126067-0001_2209jva_002_l_new-cover.jpeg",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 27,
+        "item_id": "g7QxL8m9T1P0K8eN0j1bE",
+        "name": "Chronograph Watch",
+        "description": "A chronograph watch with precise timekeeping.",
+        "price": "600.00",
+        "auction_start": "2024-11-07T08:00:00.000Z",
+        "auction_end": "2024-11-14T08:00:00.000Z",
+        "category": "Watch",
+        "images_url": [
+            "https://media.gq.com/photos/636175be96efe5f456046f92/16:9/w_2560%2Cc_limit/m126067-0001_2209jva_002_l_new-cover.jpeg",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 28,
+        "item_id": "h8RpL7m0T1XyK9eN1j2bE",
+        "name": "Quartz Watch",
+        "description": "A reliable quartz watch with accurate time.",
+        "price": "200.00",
+        "auction_start": "2024-11-08T09:00:00.000Z",
+        "auction_end": "2024-11-15T09:00:00.000Z",
+        "category": "Watch",
+        "images_url": [
+            "https://media.gq.com/photos/636175be96efe5f456046f92/16:9/w_2560%2Cc_limit/m126067-0001_2209jva_002_l_new-cover.jpeg",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 29,
+        "item_id": "i9QxL8m9T1P0K0eN2j3bE",
+        "name": "Vintage Watch",
+        "description": "A vintage watch with a classic look.",
+        "price": "1200.00",
+        "auction_start": "2024-11-09T10:00:00.000Z",
+        "auction_end": "2024-11-16T10:00:00.000Z",
+        "category": "Watch",
+        "images_url": [
+            "https://media.gq.com/photos/636175be96efe5f456046f92/16:9/w_2560%2Cc_limit/m126067-0001_2209jva_002_l_new-cover.jpeg",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 30,
+        "item_id": "j0RpL7m0T1XyK1eN3j4bE",
+        "name": "Fashion Watch",
+        "description": "A trendy fashion watch with modern design.",
+        "price": "150.00",
+        "auction_start": "2024-11-10T11:00:00.000Z",
+        "auction_end": "2024-11-17T11:00:00.000Z",
+        "category": "Watch",
+        "images_url": [
+            "https://media.gq.com/photos/636175be96efe5f456046f92/16:9/w_2560%2Cc_limit/m126067-0001_2209jva_002_l_new-cover.jpeg",
+            "https://example.com/car2.jpg"
+        ]
+    },
+    {
+        "id": 35,
+        "item_id": "a8N6K0l9P2oXr5eT3j4bE",
+        "name": "Landscape Painting",
+        "description": "A beautiful landscape painting in oil.",
+        "price": "1200.00",
+        "auction_start": "2025-05-01T02:00:00.000Z",
+        "auction_end": "2025-05-08T02:00:00.000Z",
+        "category": "Art",
+        "images_url": [
+            "https://example.com/art1.jpg",
+            "https://example.com/art2.jpg"
+        ]
+    },
+    {
+        "id": 36,
+        "item_id": "b9QxL7m3T0P1K2eN4j5bE",
+        "name": "Abstract Art",
+        "description": "An abstract art piece with vibrant colors.",
+        "price": "1500.00",
+        "auction_start": "2025-05-05T03:00:00.000Z",
+        "auction_end": "2025-05-12T03:00:00.000Z",
+        "category": "Art",
+        "images_url": [
+            "https://example.com/art3.jpg",
+            "https://example.com/art4.jpg"
+        ]
+    },
+    {
+        "id": 37,
+        "item_id": "c1RpL8m9T2XyK3eN5j6bE",
+        "name": "Portrait",
+        "description": "A stunning portrait painted in acrylic.",
+        "price": "2000.00",
+        "auction_start": "2025-05-10T04:00:00.000Z",
+        "auction_end": "2025-05-17T04:00:00.000Z",
+        "category": "Art",
+        "images_url": [
+            "https://example.com/art5.jpg",
+            "https://example.com/art6.jpg"
+        ]
+    },
+    {
+        "id": 38,
+        "item_id": "d2QxL7m0T1P4K5eN6j7bE",
+        "name": "Still Life",
+        "description": "A classic still life painting with detailed brushwork.",
+        "price": "1800.00",
+        "auction_start": "2025-05-15T05:00:00.000Z",
+        "auction_end": "2025-05-22T05:00:00.000Z",
+        "category": "Art",
+        "images_url": [
+            "https://example.com/art7.jpg",
+            "https://example.com/art8.jpg"
+        ]
+    },
+    {
+        "id": 39,
+        "item_id": "e3RpL8m9T1XyK6eN7j8bE",
+        "name": "Modern Art",
+        "description": "A piece of modern art with a unique style.",
+        "price": "2200.00",
+        "auction_start": "2025-05-20T06:00:00.000Z",
+        "auction_end": "2025-05-27T06:00:00.000Z",
+        "category": "Art",
+        "images_url": [
+            "https://example.com/art9.jpg",
+            "https://example.com/art10.jpg"
+        ]
+    },
+    {
+        "id": 40,
+        "item_id": "f4QxL7m0T1P5K7eN8j9bE",
+        "name": "Watercolor Painting",
+        "description": "A delicate watercolor painting of flowers.",
+        "price": "1400.00",
+        "auction_start": "2025-05-25T07:00:00.000Z",
+        "auction_end": "2025-06-01T07:00:00.000Z",
+        "category": "Art",
+        "images_url": [
+            "https://example.com/art11.jpg",
+            "https://example.com/art12.jpg"
+        ]
+    },
+    {
+        "id": 41,
+        "item_id": "g5RpL8m9T1XyK8eN9j0bE",
+        "name": "Cityscape",
+        "description": "A vibrant cityscape painting capturing urban life.",
+        "price": "1600.00",
+        "auction_start": "2025-05-30T08:00:00.000Z",
+        "auction_end": "2025-06-06T08:00:00.000Z",
+        "category": "Art",
+        "images_url": [
+            "https://example.com/art13.jpg",
+            "https://example.com/art14.jpg"
+        ]
+    },
+    {
+        "id": 42,
+        "item_id": "h6QxL7m0T1P6K9eN0j1bE",
+        "name": "Nature Scene",
+        "description": "A serene nature scene with a calm atmosphere.",
+        "price": "1300.00",
+        "auction_start": "2025-06-01T09:00:00.000Z",
+        "auction_end": "2025-06-08T09:00:00.000Z",
+        "category": "Art",
+        "images_url": [
+            "https://example.com/art15.jpg",
+            "https://example.com/art16.jpg"
+        ]
+    },
+    {
+        "id": 43,
+        "item_id": "i7RpL8m9T1XyK0eN1j2bE",
+        "name": "Surreal Art",
+        "description": "A surreal art piece with dreamlike elements.",
+        "price": "2500.00",
+        "auction_start": "2025-06-05T10:00:00.000Z",
+        "auction_end": "2025-06-12T10:00:00.000Z",
+        "category": "Art",
+        "images_url": [
+            "https://example.com/art17.jpg",
+            "https://example.com/art18.jpg"
+        ]
+    },
+    {
+        "id": 44,
+        "item_id": "j8QxL7m0T1P7K1eN2j3bE",
+        "name": "Mixed Media",
+        "description": "A mixed media artwork combining various techniques.",
+        "price": "3000.00",
+        "auction_start": "2025-06-10T11:00:00.000Z",
+        "auction_end": "2025-06-17T11:00:00.000Z",
+        "category": "Art",
+        "images_url": [
+            "https://example.com/art19.jpg",
+            "https://example.com/art20.jpg"
+        ]
+    },
+    {
+        "id": 49,
+        "item_id": "N1F8g9K2m3P4Q5rS6t7U8",
+        "name": "Winter Coat",
+        "description": "A warm winter coat for cold weather.",
+        "price": "200.00",
+        "auction_start": "2025-03-01T02:00:00.000Z",
+        "auction_end": "2025-03-08T02:00:00.000Z",
+        "category": "Clothing",
+        "images_url": [
+            "https://example.com/clothing1.jpg",
+            "https://example.com/clothing2.jpg"
+        ]
+    },
+    {
+        "id": 50,
+        "item_id": "O2G9h0L1m4R5S6t7U8V9",
+        "name": "Summer Dress",
+        "description": "A stylish summer dress for sunny days.",
+        "price": "80.00",
+        "auction_start": "2025-03-05T03:00:00.000Z",
+        "auction_end": "2025-03-12T03:00:00.000Z",
+        "category": "Clothing",
+        "images_url": [
+            "https://example.com/clothing3.jpg",
+            "https://example.com/clothing4.jpg"
+        ]
+    },
+    {
+        "id": 51,
+        "item_id": "P3H0i1M2n5S6U7t8V9W0",
+        "name": "Casual Shirt",
+        "description": "A comfortable casual shirt for everyday wear.",
+        "price": "50.00",
+        "auction_start": "2025-03-10T04:00:00.000Z",
+        "auction_end": "2025-03-17T04:00:00.000Z",
+        "category": "Clothing",
+        "images_url": [
+            "https://example.com/clothing5.jpg",
+            "https://example.com/clothing6.jpg"
+        ]
+    },
+    {
+        "id": 52,
+        "item_id": "Q4I1j2N3o6T7U8V9W0X1",
+        "name": "Formal Suit",
+        "description": "A sophisticated formal suit for special occasions.",
+        "price": "300.00",
+        "auction_start": "2025-03-15T05:00:00.000Z",
+        "auction_end": "2025-03-22T05:00:00.000Z",
+        "category": "Clothing",
+        "images_url": [
+            "https://example.com/clothing7.jpg",
+            "https://example.com/clothing8.jpg"
+        ]
+    },
+    {
+        "id": 53,
+        "item_id": "R5J2k3O4p7U8V9W0X1Y2",
+        "name": "Jeans",
+        "description": "Stylish jeans for a casual look.",
+        "price": "70.00",
+        "auction_start": "2025-03-20T06:00:00.000Z",
+        "auction_end": "2025-03-27T06:00:00.000Z",
+        "category": "Clothing",
+        "images_url": [
+            "https://example.com/clothing9.jpg",
+            "https://example.com/clothing10.jpg"
+        ]
+    },
+    {
+        "id": 54,
+        "item_id": "S6K3l4P5q8V9W0X1Y2Z3",
+        "name": "Sweater",
+        "description": "A cozy sweater for cooler temperatures.",
+        "price": "60.00",
+        "auction_start": "2025-03-25T07:00:00.000Z",
+        "auction_end": "2025-04-01T07:00:00.000Z",
+        "category": "Clothing",
+        "images_url": [
+            "https://example.com/clothing11.jpg",
+            "https://example.com/clothing12.jpg"
+        ]
+    },
+    {
+        "id": 55,
+        "item_id": "T7L4m5R6p9W0X1Y2Z3A4",
+        "name": "Jacket",
+        "description": "A versatile jacket for various weather conditions.",
+        "price": "120.00",
+        "auction_start": "2025-03-30T08:00:00.000Z",
+        "auction_end": "2025-04-07T08:00:00.000Z",
+        "category": "Clothing",
+        "images_url": [
+            "https://example.com/clothing13.jpg",
+            "https://example.com/clothing14.jpg"
+        ]
+    },
+    {
+        "id": 56,
+        "item_id": "U8M5n6S7q0X1Y2Z3A4B5",
+        "name": "Tracksuit",
+        "description": "A comfortable tracksuit for exercise and relaxation.",
+        "price": "90.00",
+        "auction_start": "2025-04-01T09:00:00.000Z",
+        "auction_end": "2025-04-08T09:00:00.000Z",
+        "category": "Clothing",
+        "images_url": [
+            "https://example.com/clothing15.jpg",
+            "https://example.com/clothing16.jpg"
+        ]
+    },
+    {
+        "id": 57,
+        "item_id": "V9N6o7T8r1Y2Z3A4B5C6",
+        "name": "Blazer",
+        "description": "A stylish blazer for professional settings.",
+        "price": "150.00",
+        "auction_start": "2025-04-05T10:00:00.000Z",
+        "auction_end": "2025-04-12T10:00:00.000Z",
+        "category": "Clothing",
+        "images_url": [
+            "https://example.com/clothing17.jpg",
+            "https://example.com/clothing18.jpg"
+        ]
+    },
+    {
+        "id": 58,
+        "item_id": "W0O7p8U9s2Z3A4B5C6D7",
+        "name": "Shorts",
+        "description": "Comfortable shorts for warm weather.",
+        "price": "40.00",
+        "auction_start": "2025-04-10T11:00:00.000Z",
+        "auction_end": "2025-04-17T11:00:00.000Z",
+        "category": "Clothing",
+        "images_url": [
+            "https://example.com/clothing19.jpg",
+            "https://example.com/clothing20.jpg"
+        ]
+    },
+    {
+        "id": 59,
+        "item_id": "X1Y2z3A4b5C6d7E8f9G0",
+        "name": "Sneakers",
+        "description": "Comfortable sneakers for daily wear.",
+        "price": "100.00",
+        "auction_start": "2025-03-01T02:00:00.000Z",
+        "auction_end": "2025-03-08T02:00:00.000Z",
+        "category": "Shoes",
+        "images_url": [
+            "https://example.com/shoe1.jpg",
+            "https://example.com/shoe2.jpg"
+        ]
+    },
+    {
+        "id": 60,
+        "item_id": "Y2Z3a4B5c6D7e8F9g0H1",
+        "name": "Formal Shoes",
+        "description": "Elegant formal shoes for business attire.",
+        "price": "150.00",
+        "auction_start": "2025-03-05T03:00:00.000Z",
+        "auction_end": "2025-03-12T03:00:00.000Z",
+        "category": "Shoes",
+        "images_url": [
+            "https://example.com/shoe3.jpg",
+            "https://example.com/shoe4.jpg"
+        ]
+    },
+    {
+        "id": 61,
+        "item_id": "Z3A4b5C6d7E8f9G0h1I2",
+        "name": "Boots",
+        "description": "Durable boots suitable for rugged terrains.",
+        "price": "180.00",
+        "auction_start": "2025-03-10T04:00:00.000Z",
+        "auction_end": "2025-03-17T04:00:00.000Z",
+        "category": "Shoes",
+        "images_url": [
+            "https://example.com/shoe5.jpg",
+            "https://example.com/shoe6.jpg"
+        ]
+    },
+    {
+        "id": 62,
+        "item_id": "A4B5c6D7e8F9g0H1i2J3",
+        "name": "Loafers",
+        "description": "Classic loafers for casual and formal occasions.",
+        "price": "90.00",
+        "auction_start": "2025-03-15T05:00:00.000Z",
+        "auction_end": "2025-03-22T05:00:00.000Z",
+        "category": "Shoes",
+        "images_url": [
+            "https://example.com/shoe7.jpg",
+            "https://example.com/shoe8.jpg"
+        ]
+    },
+    {
+        "id": 63,
+        "item_id": "B5C6d7E8f9G0h1I2j3K4",
+        "name": "Sandals",
+        "description": "Comfortable sandals for summer.",
+        "price": "60.00",
+        "auction_start": "2025-03-20T06:00:00.000Z",
+        "auction_end": "2025-03-27T06:00:00.000Z",
+        "category": "Shoes",
+        "images_url": [
+            "https://example.com/shoe9.jpg",
+            "https://example.com/shoe10.jpg"
+        ]
+    },
+    {
+        "id": 64,
+        "item_id": "C6D7e8F9g0H1i2J3k4L5",
+        "name": "Running Shoes",
+        "description": "High-performance running shoes.",
+        "price": "120.00",
+        "auction_start": "2025-03-25T07:00:00.000Z",
+        "auction_end": "2025-04-01T07:00:00.000Z",
+        "category": "Shoes",
+        "images_url": [
+            "https://example.com/shoe11.jpg",
+            "https://example.com/shoe12.jpg"
+        ]
+    },
+    {
+        "id": 65,
+        "item_id": "D7E8f9G0h1I2j3K4l5M6",
+        "name": "Chelsea Boots",
+        "description": "Stylish Chelsea boots for a chic look.",
+        "price": "140.00",
+        "auction_start": "2025-03-30T08:00:00.000Z",
+        "auction_end": "2025-04-07T08:00:00.000Z",
+        "category": "Shoes",
+        "images_url": [
+            "https://example.com/shoe13.jpg",
+            "https://example.com/shoe14.jpg"
+        ]
+    },
+    {
+        "id": 66,
+        "item_id": "E8F9g0H1i2J3k4L5m6N7",
+        "name": "Moccasins",
+        "description": "Soft moccasins for ultimate comfort.",
+        "price": "80.00",
+        "auction_start": "2025-04-01T09:00:00.000Z",
+        "auction_end": "2025-04-08T09:00:00.000Z",
+        "category": "Shoes",
+        "images_url": [
+            "https://example.com/shoe15.jpg",
+            "https://example.com/shoe16.jpg"
+        ]
+    },
+    {
+        "id": 67,
+        "item_id": "F9G0h1I2j3K4l5M6n7O8",
+        "name": "Dress Shoes",
+        "description": "Elegant dress shoes for formal events.",
+        "price": "160.00",
+        "auction_start": "2025-04-05T10:00:00.000Z",
+        "auction_end": "2025-04-12T10:00:00.000Z",
+        "category": "Shoes",
+        "images_url": [
+            "https://example.com/shoe17.jpg",
+            "https://example.com/shoe18.jpg"
+        ]
+    },
+    {
+        "id": 68,
+        "item_id": "G0H1i2J3k4L5m6N7o8P9",
+        "name": "High-Top Sneakers",
+        "description": "Trendy high-top sneakers for a modern style.",
+        "price": "110.00",
+        "auction_start": "2025-04-10T11:00:00.000Z",
+        "auction_end": "2025-04-17T11:00:00.000Z",
+        "category": "Shoes",
+        "images_url": [
+            "https://example.com/shoe19.jpg",
+            "https://example.com/shoe20.jpg"
+        ]
+    }
+]

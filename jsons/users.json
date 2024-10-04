@@ -1,0 +1,62 @@
+[
+    {
+        "id": 23,
+        "firstname": "munkh",
+        "lastname": "munkhbold",
+        "phone": "99660060",
+        "email": "munkhbold260@gmail.com",
+        "password": "123",
+        "userid": "PYeevrFqeObUcsb9-1B4Z",
+        "otp": "709346",
+        "balance": "0.00",
+        "userrole": "admin"
+    },
+    {
+        "id": 25,
+        "firstname": "Анхүү",
+        "lastname": "Сугармаа",
+        "phone": "98101551",
+        "email": "sugarmaaa8@gmail.com",
+        "password": "Boldoo76",
+        "userid": "2rXNFph1AH9levgU0OvYd",
+        "otp": null,
+        "balance": "0.00",
+        "userrole": "user"
+    },
+    {
+        "id": 26,
+        "firstname": "Цэрэндулам",
+        "lastname": "Чулуунчимэг",
+        "phone": "99884203",
+        "email": "tschuluunchimeg2@gmail.com",
+        "password": "Члн@123",
+        "userid": "qhA59sboZ0jTdPKf7pgJa",
+        "otp": null,
+        "balance": "0.00",
+        "userrole": "user"
+    },
+    {
+        "id": 27,
+        "firstname": "Мөнхэрдэнэ",
+        "lastname": "Ганбаатар",
+        "phone": "99871929",
+        "email": "muugii9902@gmail.com",
+        "password": "123456",
+        "userid": "aeDAUfZUst0JcLy2GCBjB",
+        "otp": "618940",
+        "balance": "0.00",
+        "userrole": "user"
+    },
+    {
+        "id": 32,
+        "firstname": "ochir",
+        "lastname": "batbold",
+        "phone": "99040480",
+        "email": "farson_jojo@yahoo.com",
+        "password": "Qwerty0429$",
+        "userid": "SMWkMdKO78kJqzEgXVvfb",
+        "otp": "208208",
+        "balance": "0.00",
+        "userrole": "user"
+    }
+]
